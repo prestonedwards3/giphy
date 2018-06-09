@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    height: 100%;
+ }
+ 
+ #buttonDump{
+     height: 75px;
+ }
+ #middle, #search, #pics{
+     height: 560px;
+ }
+ button{
+     margin: 2px;
+ }
